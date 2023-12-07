@@ -58,7 +58,7 @@
     "@rollup/plugin-node-resolve": "^11.0.1",
     "@rollup/plugin-replace": "^2.3.4",
     "@rollup/plugin-typescript": "^8.1.0",
-    "@rollup/plugin-url": "^6.0.0",
+    "@rollup/plugin-url": "^8.0.2",
     "@testing-library/jest-dom": "^5.11.8",
     "@testing-library/svelte": "^3.0.3",
     "@tsconfig/svelte": "^1.0.10",
